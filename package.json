@@ -1,0 +1,14 @@
+{
+  "name": "part7-graphql",
+  "version": "1.0.0",
+  "description": "Part 7: GraphQL with Apollo Server",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"No test scripts configured\""
+  },
+  "dependencies": {
+    "apollo-server-express": "^3.6.9",
+    "express": "^4.18.2",
+    "graphql": "^16.6.0"
+  }
+}
